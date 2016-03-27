@@ -13,13 +13,13 @@
       "type": "git",
       "url": "https://github.com/byr-gdp/byr-bbs-top-ten"
   },
-  "keywords": {
+  "keywords": [
     "node",
     "npm",
     "bbs",
     "byr",
     "command line"
-  },
+  ],
   "author": "byr-gdp",
   "license": "MIT",
   "dependencies": {
