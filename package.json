@@ -9,10 +9,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/byr-gdp/byr-bbs-top-ten"
+  },
+  "keywords": {
+    "node",
+    "npm",
+    "bbs",
+    "byr",
+    "command line"
+  },
   "author": "byr-gdp",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^0.12.0",
     "request": "^2.69.0"
+  },
+  "bugs": {
+      "url": "https://github.com/byr-gdp/byr-bbs-top-ten/issues"
   }
 }
