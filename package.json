@@ -1,7 +1,7 @@
 {
   "name": "byr-bbs-top-ten",
-  "version": "0.0.3",
-  "description": "北邮人论坛十大主题命令行版本",
+  "version": "0.0.4",
+  "description": "基于命令行浏览北邮人论坛十大主题",
   "main": "index.js",
   "bin": {
     "topten": "index.js"
