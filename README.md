@@ -1,6 +1,7 @@
 # byr-bbs-top-ten-command-line
 
 [![Build Status](https://travis-ci.org/byr-gdp/byr-bbs-top-ten.svg?branch=master)](https://travis-ci.org/byr-gdp/byr-bbs-top-ten)
+[![codecov.io](https://codecov.io/github/byr-gdp/byr-bbs-top-ten-command-line/coverage.svg?branch=master)](https://codecov.io/github/byr-gdp/byr-bbs-top-ten-command-line?branch=master)
 
 基于 Node 的北邮人论坛十大命令行版本。当前版本比较简陋，只实现了浏览十大的基本功能。
 
