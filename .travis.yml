@@ -2,5 +2,5 @@ language: node_js
 node_js:
     - 4.1.0
 script:
-    istanbul cover test.js
-    ./node_modules/.bin/codecov --token=3fbcd2cf-fa51-4cde-bad6-b5d71f3b47ca
+    - istanbul cover test.js
+    - ./node_modules/.bin/codecov --token=3fbcd2cf-fa51-4cde-bad6-b5d71f3b47ca
